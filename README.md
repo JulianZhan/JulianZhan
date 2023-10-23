@@ -8,7 +8,8 @@ Hello! I'm **JulianZhan**.
 
 - 🌱 Currently learning about _Data Engineering_.
 - 📫 Contact me via [julianzhan6@gmail.com](mailto:julianzhan6@gmail.com).
-- Love &nbsp; ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp; ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- Enjoy Programming and Learning
+- Love &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp; ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
