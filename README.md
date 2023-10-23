@@ -16,6 +16,7 @@ I enjoy programming, learning, and transforming ideas & implementation into code
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 [![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianZhan&show_icons=true&theme=calm_pink&count_private=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
