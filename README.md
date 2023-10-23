@@ -5,10 +5,12 @@
 -->
 
 Hello! I'm **JulianZhan**.
-I enjoy programming, learning, and transforming ideas & implementation into code!
+I enjoy programming, learning, and transforming ideas & implementation into code! 
 
 🌱 **Current Pursuit:** Delving deep into Data Engineering.
+
 📫 **Contact me via:** [julianzhan6@gmail.com](mailto:julianzhan6@gmail.com).
+
 🔍 **Languages & Tools:**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
