@@ -6,10 +6,6 @@
 
 Hello! I'm **JulianZhan**.
 
-I enjoy programming, learning, and transforming ideas & implementation into code! 
-
-🌱 **Current Pursuit:** Delving deep into Data Engineering.
-
 📫 **Contact me via:** [julianzhan6@gmail.com](mailto:julianzhan6@gmail.com).
 
 🔍 **Languages & Tools:**
